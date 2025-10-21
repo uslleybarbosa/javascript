@@ -6,10 +6,12 @@ Este exercício demonstra o uso mais básico do JavaScript: exibir uma mensagem 
 
 ## 🧠 O que o código faz?
 
-```javascript
+```
+javascript
 <script title="text/JavaScript">
   alert("Ola, mundo!");
 </script>
+```
 
   *  O código está dentro da tag <script>, que é usada para inserir JavaScript em páginas HTML.
 
